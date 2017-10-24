@@ -3,4 +3,18 @@ import pandas as pd
 import nltk
 from nltk import re
 
-print("Hello")
+#load inputs
+
+
+#forward propogation
+
+
+#calculate error
+
+
+
+#backwards propogation
+
+
+
+#classify
