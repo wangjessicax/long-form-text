@@ -8,6 +8,8 @@ from nltk import re
 
 #forward propogation
 
+print("yo is this working??")
+
 
 #calculate error
 
